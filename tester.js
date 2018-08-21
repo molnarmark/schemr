@@ -2,7 +2,7 @@
 // I'm just too lazy. Deal with it folks.
 // I'd love getting a PR that implements proper unit testing for Schemr.
 
-const { Schemr, check } = require('./index');
+const { Schemr, check } = require('schemr');
 
 const testSchema = new Schemr('human-being', {
   name: Schemr.field,
