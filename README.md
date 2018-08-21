@@ -7,7 +7,9 @@
 > The Ultimate Tiny schema validation package.
 
 ### Getting Started
-`npm install --save schemr`
+```
+npm install --save schemr
+```
 
 ### Usage
 
