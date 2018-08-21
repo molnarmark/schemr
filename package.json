@@ -1,0 +1,22 @@
+{
+  "name": "schemr",
+  "version": "1.0.0",
+  "description": "Tiny schema validation package",
+  "main": "index.js",
+  "keywords": [
+    "schema",
+    "schemr",
+    "schema-validator",
+    "valid-schema"
+  ],
+  "author": "Molnar Mark <molnarpw@gmail.com>",
+  "license": "MIT",
+  "reveal": true,
+  "dependencies": {
+    "overwrite-properties": "^1.0.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/molnarmark/schemr.git"
+  },
+}
